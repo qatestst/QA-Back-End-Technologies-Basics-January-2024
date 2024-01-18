@@ -1,4 +1,6 @@
 function solve(speed, area){
+    'use strict';
+    
     let limit = 0;
     let status = "";
     switch(area){

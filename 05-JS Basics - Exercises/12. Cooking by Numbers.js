@@ -1,5 +1,7 @@
 function solve(number, op1, op2, op3, op4, op5){
 
+    'use strict';
+    
     let result = number;
    
         switch((op1)){
