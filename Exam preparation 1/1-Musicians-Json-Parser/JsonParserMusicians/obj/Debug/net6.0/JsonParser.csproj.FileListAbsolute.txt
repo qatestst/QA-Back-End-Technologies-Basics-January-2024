@@ -1,0 +1,15 @@
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.exe
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\Datasets\Musicians.json
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.deps.json
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.dll
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.pdb
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.dll
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\refint\JsonParser.dll
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.pdb
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\SUQAP\QA-Back-End Technologies Basics - януари 2024\repos\Exam preparation 1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\ref\JsonParser.dll
