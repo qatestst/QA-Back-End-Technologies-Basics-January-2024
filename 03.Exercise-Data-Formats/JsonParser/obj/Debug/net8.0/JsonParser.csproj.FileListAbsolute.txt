@@ -1,0 +1,16 @@
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll

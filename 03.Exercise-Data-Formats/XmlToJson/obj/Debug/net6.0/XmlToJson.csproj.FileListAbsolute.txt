@@ -1,0 +1,16 @@
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+D:\SUQAP\Back-End Technologies Basics - януари 2024\03.Exercise-Data-Formats\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
