@@ -2387,11 +2387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+      "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
       "projectName": "ProductConsoleAPI",
-      "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+      "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
+      "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

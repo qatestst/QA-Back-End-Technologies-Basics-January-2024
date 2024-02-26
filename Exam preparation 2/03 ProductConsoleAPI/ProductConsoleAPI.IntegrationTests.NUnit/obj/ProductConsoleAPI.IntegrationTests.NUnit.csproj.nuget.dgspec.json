@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj": {}
+    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj": {}
   },
   "projects": {
-    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj": {
+    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
+        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
         "projectName": "ProductConsoleAPI.IntegrationTests.NUnit",
-        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
+        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\obj\\",
+        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj": {
-                "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj"
+              "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj": {
+                "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj": {
+    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
         "projectName": "ProductConsoleAPI",
-        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
+        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

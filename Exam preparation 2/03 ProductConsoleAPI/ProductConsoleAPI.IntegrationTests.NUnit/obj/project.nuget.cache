@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BdMlL3WqdGhWlV4Agdp4qKQ4GQq5PKKP8ngY1scRkk1lx2xSPULmeu7C/GHwSWVfnNDD3CITGHdie65KWBMISA==",
+  "dgSpecHash": "bXxRhDWN3fVFCRW5cJTYU0b+jnPxIV5hR4jnPbBX7gjiXz/Zcv73l3yCpZyyZ4A+Wc0HC6HTuJiC/BeRhp5Z9w==",
   "success": true,
-  "projectFilePath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
+  "projectFilePath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 2\\03 ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
