@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {}
+    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {}
   },
   "projects": {
-    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
+    "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+        "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
         "projectName": "ContactsConsoleAPI",
-        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+        "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\obj\\",
+        "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

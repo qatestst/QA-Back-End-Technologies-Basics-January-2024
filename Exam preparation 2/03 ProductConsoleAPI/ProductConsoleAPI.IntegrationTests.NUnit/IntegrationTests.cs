@@ -284,7 +284,7 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
         public async Task UpdateAsync_WithValidProduct_ShouldUpdateProduct()
         {
             // Arrange
-            // Arrange
+            
             var firstProduct = new Product()
             {
                 OriginCountry = "Bulgaria",
@@ -313,9 +313,10 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
 
             await productsManager.UpdateAsync(firstProduct);
 
-            var result = await productsManager.GetSpecificAsync(firstProduct.ProductCode);
-
-
+            //var result = await productsManager.GetSpecificAsync(firstProduct.ProductCode);
+            
+            var result = await dbContext.Products.FirstOrDefaultAsync(p => p.ProductCode == firstProduct.ProductCode);
+            
             // Assert
             Assert.NotNull(result);
             Assert.AreEqual(result.ProductName, "Second Product");

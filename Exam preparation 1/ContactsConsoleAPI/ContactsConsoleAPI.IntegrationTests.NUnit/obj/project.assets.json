@@ -6178,11 +6178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
+      "projectUniqueName": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
       "projectName": "ContactsConsoleAPI.IntegrationTests.NUnit",
-      "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
+      "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\obj\\",
+      "outputPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6199,8 +6199,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
-              "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj"
+            "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
+              "projectPath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj"
             }
           }
         }

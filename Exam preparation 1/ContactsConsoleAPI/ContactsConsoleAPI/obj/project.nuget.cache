@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SVqa3tEyt/zc1ahJo4sx/TKmLo1lLkMCbhZsHDRNEpC5khUL2K8yRYWp3qB5iBTd1A3HBy80EYhdiXuhlpmFA==",
+  "dgSpecHash": "R1UW/hgeKaSxrqngxxilinCHCT4/gMT4Tp1QN64DRyxpW0UcqlLm6Aey6LcZQVL4DT0UQ0ehh7p/eZJfcYeWYA==",
   "success": true,
-  "projectFilePath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repos\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+  "projectFilePath": "D:\\SUQAP\\QA-Back-End Technologies Basics - януари 2024\\repo\\Exam preparation 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
