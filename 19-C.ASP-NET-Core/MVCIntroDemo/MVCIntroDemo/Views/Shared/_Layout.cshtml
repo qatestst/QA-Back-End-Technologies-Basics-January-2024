@@ -34,18 +34,27 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="NumbersToN">NumbersToN</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="All">All</a>
+                        <li class="nav-item dropdown">
+                            <div class="dropdown">
+                                <button class="btn dropdown-toggle" type="button"
+                                data-bs-toggle="dropdown">
+                                Products
+                            </button>
+                            <ul class="dropdown-menu">
+                                   <li>
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsJson">All As Json</a>
+                                    </li>
+                                    <li>
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsText">All As Text</a>
+                                    </li>
+                                    <li>
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsTextFile">Download-All-As-Text-file</a>
+                                    </li>
+
+                            </ul>
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsJson">All As Json</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsText">All As Text</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AllAsTextFile">Download-All-As-Text-file</a>
-                        </li>
+                        
 
                     </ul>
                 </div>

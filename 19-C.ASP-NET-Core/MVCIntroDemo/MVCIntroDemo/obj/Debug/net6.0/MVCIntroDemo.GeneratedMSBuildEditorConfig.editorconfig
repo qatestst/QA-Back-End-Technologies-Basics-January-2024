@@ -38,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SUQAP/QA-Back-End Technologies Basics - януари 2024/repo/19-C.ASP-NET-Core/MVCIntroDemo/MVCIntroDemo/Views/Product/All.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBbGwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/SUQAP/QA-Back-End Technologies Basics - януари 2024/repo/19-C.ASP-NET-Core/MVCIntroDemo/MVCIntroDemo/Views/Product/AllAsJson.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBbGxBc0pzb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/SUQAP/QA-Back-End Technologies Basics - януари 2024/repo/19-C.ASP-NET-Core/MVCIntroDemo/MVCIntroDemo/Views/Product/ById.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SUQAP/QA-Back-End Technologies Basics - януари 2024/repo/19-C.ASP-NET-Core/MVCIntroDemo/MVCIntroDemo/Views/Product/My-Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxNeS1Qcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/SUQAP/QA-Back-End Technologies Basics - януари 2024/repo/19-C.ASP-NET-Core/MVCIntroDemo/MVCIntroDemo/Views/Shared/Error.cshtml]
